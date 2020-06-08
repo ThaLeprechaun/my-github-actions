@@ -9,5 +9,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.0.1"
+  },
+  "engines": {
+    "yarn": "YARN NO LONGER USED - use npm instead."
   }
 }
