@@ -1,0 +1,13 @@
+{
+  "name": "my-github-actions",
+  "version": "1.0.0",
+  "description": "Implementing Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
